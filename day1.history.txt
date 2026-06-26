@@ -1,0 +1,279 @@
+    1  [200~git config --global user.name "AtulGanvir"~
+    2  [200~git config --global user.name "AtulGanvir"~
+    3  git config --global user.name "AtulGanvir"~
+    4  git config --global user.email "atulganvir0306@gmail.com"
+    5  git config --global core.editor "code --wait"
+    6  jnvjxdbnv
+    7  ls
+    8  pwd
+    9  mkdir vir
+   10  del vir
+   11  delete vi
+   12  remove vir
+   13  ls
+   14  pwd
+   15  ls
+   16  pwd
+   17  ls
+   18  git --version 
+   19  git config --global user.name "AtulGanvir"
+   20  git config --config -l
+   21  git config --global user.nemail "atulganvir0306@gmail.com"
+   22  git config --global -l
+   23  git status 
+   24  git add AImailsender.py
+   25  cd Git&GitHub
+   26  ls
+   27  ls
+   28  cd Documents/
+   29  cd Git&GitHub
+   30  mkdir GitHub26
+   31  cd GitHub26/
+   32  touch AImailsender.py
+   33  notepad AImailsender.py 
+   34  cat AImailsender.py 
+   35  git status
+   36  cd ..
+   37  git status
+   38  cd GitHub26/
+   39  git init
+   40  git status
+   41  ls -a
+   42  cd .git/
+   43  ls
+   44  cd HEAD 
+   45  cat HEAD 
+   46  cd ..
+   47   git status
+   48  git add AImailsender.py 
+   49   git status
+   50  git ls -files
+   51  git ls-files
+   52  git commit -m "FIRST COMMIT created AImailsender.py"
+   53  git status
+   54  git log
+   55  git log --oneline
+   56  git log --stat
+   57  git show
+   58  git show HEAD
+   59  git branch -M main
+   60  git remote add origin https://github.com/AtulGanvir/AI-mail_sender.git
+   61  git push -u origin main
+   62  q
+   63  git push -u origin main
+   64  exit
+   65  cd desktop
+   66  pwd
+   67  ls
+   68  cd java-tutorial26
+   69  cd..
+   70  cd ..
+   71  cd 
+   72  cd /d/users
+   73  cd :/d/users
+   74  ls
+   75  got log
+   76  git log
+   77  mkdir project 
+   78  cd project/
+   79  path
+   80  path project
+   81  cd ..
+   82  path project/
+   83  ls
+   84  git log
+   85  git -v
+   86  git config --global user.name "Atul Ganvir"
+   87  git config --global user.email "atulganvir0306@gmail.com"
+   88  git config --list
+   89  ls
+   90  cd Documents/
+   91  ls
+   92  mkdir project_delete
+   93  ls
+   94  rmdir project_delete/
+   95  ls
+   96  mkdir project_delete
+   97  git --init
+   98  cd project_delete/
+   99  git --init
+  100  git init
+  101  ls
+  102  ls -a
+  103  ls .git/
+  104  touch names.txt
+  105  git status
+  106  git add names.txt 
+  107  git status
+  108   git commit -m "names.txt file added"
+  109  git status
+  110   vi names.txt 
+  111  cat names.txt 
+  112  pwd
+  113  explore .
+  114  explorer .
+  115  git status
+  116  git add .
+  117  git status
+  118  git restore --staged names.txt 
+  119  git status 
+  120  git add names.txt 
+  121  git stauts 
+  122  git status 
+  123  git commit -m "names.txt file modified"
+  124  git log
+  125   rm -rf names.txt 
+  126  git status 
+  127  git add .
+  128  git commit -m "names.txt file deleted"
+  129  git log
+  130  git status
+  131  git add .
+  132  git add names.txt
+  133  git add names.txt
+  134  git status
+  135  ls
+  136  git statsh 
+  137  git stash
+  138  git stash pop
+  139    exit
+  140  git
+  141  git --version 
+  142  cd Documents/
+  143  mkdir Atul_git&github
+  144  mkdir Atul_git&git-hub
+  145  ls
+  146  path
+  147  cd Desktop
+  148  cd ..
+  149  cd Desktop 
+  150  cd Atul_clg
+  151  whoami?
+  152  whoami
+  153  path 
+  154  path  .
+  155  ls
+  156  cd Documents
+  157  ls
+  158  rm Atul_git
+  159  touch Atul_git
+  160  ls
+  161  rmdir Atul_git/
+  162  cd Atul_git/
+  163  ls
+  164  rmdir deleteme/
+  165  ls
+  166  cd ..
+  167  rmdir Atul_git/
+  168  ls
+  169  rmdir Github26\
+  170  rmdir Github26/
+  171  rmdir Github26
+  172  cd GitHub26/
+  173  ls
+  174  ls
+  175  cd ..
+  176  ls
+  177  cd 
+  178  explorer .
+  179  cd ..
+  180  cd
+  181  cd
+  182  cd Documents
+  183  ls
+  184  cd Documents
+  185  cd Documents
+  186  cd ..
+  187  ls
+  188  cd doc
+  189  ls
+  190  ls
+  191  ls
+  192  cd 
+  193  ls
+  194  cd Documents/
+  195  ls
+  196  mkdir delete-me
+  197  rmdir delete-me/
+  198  cd june26
+  199  mkdir june26
+  200  cd june26/
+  201  touch delete-me1
+  202  cd delete-me1 
+  203  ls
+  204  rmdit delete-me1 
+  205  rmdir delete-me1 
+  206  rm -d delete-me1 
+  207  ls
+  208  git config --global -l
+  209  ls -a
+  210  touch a.txt
+  211  ls -a
+  212  git init
+  213  ls -a
+  214  cd .git/
+  215  ls
+  216  cd ..
+  217  git status
+  218  git ls -files
+  219  lsf
+  220  lfs
+  221  git ls-files
+  222  git ls-files
+  223  ls
+  224  git ls-files
+  225  git status
+  226  git add 
+  227  git add a.txt 
+  228  git status
+  229  git ls-files
+  230  git commit -m "First comit added a.txt file "
+  231  git status
+  232  git log
+  233  git log --stat
+  234  git log --oneline 
+  235  git log --oneline --graph --all
+  236  git show
+  237  git branch -M main
+  238  git branch -M main
+  239  git branch -M main 
+  240  git remote add origin https://github.com/AtulGanvir/Atul-Repository.git
+  241  git push -u origin main 
+  242  ls
+  243  vi a.txt 
+  244  git commit -m "second commit added "
+  245  git add a.txt 
+  246  git commit a.txt 
+  247  git comit a.txt 
+  248  git commit a.txt 
+  249  cat a.txt 
+  250  git show
+  251  git init a.txt
+  252  vi a.txt 
+  253  git commmit -m "second commit added to a.txt"
+  254  git commit -m "second commit added to a.txt"
+  255  git add a.txt 
+  256  git commit -m "second commit"
+  257  git show
+  258  vi a.txt 
+  259  git show
+  260  git add a.txt
+  261  git commit -m "second commit"
+  262  ls
+  263  rm -d a.txt 
+  264  touch first.txt
+  265  git add first.txt 
+  266  git add .
+  267  ls
+  268  vi first.txt 
+  269  git add  first.txt 
+  270  git commit -m "first commit is done"
+  271  git remote add origin https://github.com/AtulGanvir/Atul-Repository.git
+  272  git push origin main 
+  273  git show heaf
+  274  git show head
+  275  gir logs first.txt 
+  276  git logs first.txt
+  277  git log first.txt
+  278  history 
+  279  history > day1.history.txt
